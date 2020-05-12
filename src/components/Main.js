@@ -269,6 +269,7 @@ class Main extends React.Component {
               <a
                 href="https://twitter.com/devincloudkelly"
                 className="icon fa-twitter"
+                target="_blank"
               >
                 <span className="label">Twitter</span>
               </a>
@@ -277,6 +278,7 @@ class Main extends React.Component {
               <a
                 href="https://www.linkedin.com/in/devin-cloud-kelly/"
                 className="icon fa-linkedin"
+                target="_blank"
               >
                 <span className="label">LinkedIn</span>
               </a>
@@ -285,6 +287,7 @@ class Main extends React.Component {
               <a
                 href="https://github.com/devincloudkelly"
                 className="icon fa-github"
+                target="_blank"
               >
                 <span className="label">GitHub</span>
               </a>
@@ -293,6 +296,7 @@ class Main extends React.Component {
               <a
                 href="mailto:devin.cloud.kelly@gmail.com"
                 className="icon fa-envelope"
+                target="_blank"
               >
                 <span className="label">GitHub</span>
               </a>
