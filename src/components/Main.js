@@ -341,7 +341,7 @@ class Main extends React.Component {
               <li>Collaborative</li>
               <li>Values Diversity and Inclusion</li>
               <li>Analytical</li>
-              <li>Entrepreneurial</li>
+              <li>Entrepreneurial </li>
             </ul>
           {close}
         </article>
