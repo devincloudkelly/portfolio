@@ -203,12 +203,17 @@ class Main extends React.Component {
             </h3>
             <ul>
               <li>
-                Used product data to select, source and launch products on
-                Amazon.com
+                Used product and market data to select products with a greater likelihood of becoming top sellers
+              </li>
+              <li>
+                Negotiated with suppliers to source, optimize and manufacture products cost-effectively
               </li>
               <li>
                 Created Amazon, Facebook and email marketing campaigns to drive
-                sales
+                sales and awareness
+              </li>
+              <li>
+                Continually tweaked and modified product listings and ads to optimize product rankings and sales
               </li>
             </ul>
           </p>
@@ -239,6 +244,30 @@ class Main extends React.Component {
               </li>
             </ul>
           </p>
+          <p>
+            <h3>
+              National Account Manager{' '}
+              <h5>
+                CrossCom National | Buffalo Grove, IL
+                <br />
+                <em>08/ 2010 - 05/ 2015</em>
+              </h5>
+            </h3>
+            <ul>
+            <li>
+            Responsible for managing over 10M annually in retail accounts and coordinating with client and internal resources to deliver cost-effective retail solutions.
+            </li>
+            <li>
+            Produced weekly, quarterly and yearly forecasting for over 20 customer accounts
+            </li>
+            <li>
+            Produced data-based insight for VP of sales regarding customer trends and internal process effectiveness
+           </li>
+              <li>
+                Constant communication with customers and internal cross-functional coordination to maintain ongoing, healthy client relationships
+                </li>
+            </ul>
+          </p>
 
           {close}
         </article>
@@ -267,7 +296,7 @@ class Main extends React.Component {
           Experienced in React, Ruby on Rails and JavaScript based programming and a background in e-commerce entrepreneurship and marketing management, Devin is a collaborative team-player focused on building solutions to improve client experience and strenghtening alliances with coworkers and clients alike. 
           </p>
           <p>
-            When he isn't coding he enjoys getting outdoors for hiking and fishing, playing guitar or learning a new recipe for his roster.
+            When he isn't coding he enjoys getting outdoors for hiking and fishing, playing guitar or learning a new recipe to make for him and his wife.
           </p>
           <ul className="icons">
             <li>
