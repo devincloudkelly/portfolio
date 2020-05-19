@@ -296,18 +296,9 @@ class Main extends React.Component {
           Experienced in React, Ruby on Rails and JavaScript based programming and a background in e-commerce entrepreneurship and marketing management, Devin is a collaborative team-player focused on building solutions to improve client experience and strenghtening alliances with coworkers and clients alike. 
           </p>
           <p>
-            When he isn't coding he enjoys getting outdoors for hiking and fishing, playing guitar or learning a new recipe to make for him and his wife.
+            When he isn't coding he enjoys getting outdoors for hiking and fishing, playing guitar or learning a new recipe to make for him and his.
           </p>
           <ul className="icons">
-            <li>
-              <a
-                href="https://twitter.com/devincloudkelly"
-                className="icon fa-twitter"
-                target="_blank"
-              >
-                <span className="label">Twitter</span>
-              </a>
-            </li>
             <li>
               <a
                 href="https://www.linkedin.com/in/devin-cloud-kelly/"
@@ -324,6 +315,15 @@ class Main extends React.Component {
                 target="_blank"
               >
                 <span className="label">GitHub</span>
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://twitter.com/devincloudkelly"
+                className="icon fa-twitter"
+                target="_blank"
+              >
+                <span className="label">Twitter</span>
               </a>
             </li>
             <li>
