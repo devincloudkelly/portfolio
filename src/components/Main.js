@@ -105,14 +105,7 @@ class Main extends React.Component {
             </ul>
           </p>
           <span className="image main">
-            <iframe
-              width="560"
-              height="315"
-              src="https://www.youtube.com/embed/nVeoQqnL3DU"
-              frameborder="0"
-              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/nVeoQqnL3DU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </span>
           <h3>
             Tide Tracker{' '}
