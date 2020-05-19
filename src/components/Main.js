@@ -48,10 +48,10 @@ class Main extends React.Component {
             <ul>
               <li>
                 Built Rails API backend with Postgres DB to handle data
-                persistence and data access
+                persistence and serve data via JSON endpoints
               </li>
               <li>
-                Served app client-side with React, React-Router and Redux for
+                Designed front-end with React, React-Router and Redux for
                 enhanced user-experience
               </li>
               <li>
@@ -60,7 +60,10 @@ class Main extends React.Component {
               </li>
               <li>
                 Implemented Auth with BCrypt and JWT tokens to authorize user
-                access
+                access for non-public urls.
+              </li>
+              <li>
+                Styled with Semantic UI components and CSS.
               </li>
             </ul>
           </p>
@@ -94,11 +97,10 @@ class Main extends React.Component {
                 manage updates during team build
               </li>
               <li>
-                Designed and built Rails API backend with Postgresql database
+                Designed and built Rails API backend with PostgreSQL database
               </li>
               <li>
-                Built frontend with React and React-Router and served data
-                client-side
+                Built frontend with dynamic components and routing using React and React-Router
               </li>
             </ul>
           </p>
@@ -128,7 +130,7 @@ class Main extends React.Component {
             location and tide height of their choice.
             <ul>
               <li>
-                Consumed JSON API to deliver custom results based on user form
+                Consumed JSON API to deliver dynamic tide height data based on user
                 input
               </li>
               <li>
@@ -136,6 +138,9 @@ class Main extends React.Component {
               </li>
               <li>
                 Created JavaScript frontend for interactive user experience
+              </li>
+              <li>
+                CRUD functionality allows for persistence of locations and tides for each user
               </li>
             </ul>
           </p>
@@ -178,13 +183,13 @@ class Main extends React.Component {
             </p>
             <ul>
               <li>
-                Create React Native/Expo components based off UI/UX designs
+                Creating dynamic React Native components based off UI/UX designs
               </li>
               <li>
                 Collaborate with dev, design and PM team across Slack, Trello
                 and Figma
               </li>
-              <li>Backlog grooming with dev team</li>
+              <li>Backlog grooming with dev team to continually work towards MVP</li>
             </ul>
           </p>
           <p>
